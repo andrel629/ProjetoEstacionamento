@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\bin\Debug\net9.0\AndPar.Common.deps.json
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\bin\Debug\net9.0\AndPar.Common.dll
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\bin\Debug\net9.0\AndPar.Common.pdb
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.AssemblyInfo.cs
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.dll
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\refint\AndPar.Common.dll
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\AndPar.Common.pdb
+C:\Users\andre\Documents\ProjetosDNet\AndreParking\AndPar.Common\obj\Debug\net9.0\ref\AndPar.Common.dll
